@@ -1,2 +1,4 @@
-# test
+﻿# test
 Githubテスト
+##member
+*testmember
